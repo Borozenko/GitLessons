@@ -1,5 +1,7 @@
-Hello world 
+new String
+Hello world
 
 Вот это новая строка
+Test String
 
 Дополнительная информация
